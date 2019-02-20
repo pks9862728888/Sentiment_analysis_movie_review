@@ -4,3 +4,6 @@ This program analyses positive and negative reviews of Movie Review data obtaine
 ## Used Machine Learning model for Sentiment Analysis
 * **TF-IDF** model
 * **Logistic Regression**
+
+## Dataset used
+**Polarity dataset v2.0** containing 1000 positive and 1000 negative processed reviews. Introduced in *Pang/Lee ACL 2004. Released June 2004.*
